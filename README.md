@@ -12,7 +12,7 @@ $ pkg install git
 $ pkg install python -y
 $ git clone https://github.com/Whomrx666/Xtrack.git
 $ cd Xtrack
-$ pip install -r requirements
+$ pip install -r requirements.txt
 $ python Xtrack.py
 ```
 
