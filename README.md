@@ -7,7 +7,7 @@
 </p>
 
 ## Introduction
-**Xtrack.py — PURE OSINT TOOLS (CYBERPUNK NEON OVERPOWER EDITION)** is a terminal-based Open Source Intelligence (OSINT) framework built for human, network, social, and crypto reconnaissance. Unlike pentest frameworks, this toolkit is **strictly OSINT** — no scanning, no exploitation, no intrusive activity. It aggregates 30 specialized modules covering IP geolocation, WHOIS, DNS, subdomain enumeration, phone/email/username intelligence, social media profiling (Instagram 8-method engine, TikTok, Twitter/X, YouTube, Reddit, GitHub, Twitch, Telegram), EXIF metadata extraction, Google dorking, and more. Every module returns structured, easy-to-read output wrapped in a **24-bit true-color neon cyberpunk UI** with dynamic terminal-width support.
+**Xtrack — PURE OSINT TOOLS (CYBERPUNK NEON OVERPOWER EDITION)** is a terminal-based Open Source Intelligence (OSINT) framework built for human, network, social, and crypto reconnaissance. Unlike pentest frameworks, this toolkit is **strictly OSINT** — no scanning, no exploitation, no intrusive activity. It aggregates 30 specialized modules covering IP geolocation, WHOIS, DNS, subdomain enumeration, phone/email/username intelligence, social media profiling (Instagram 8-method engine, TikTok, Twitter/X, YouTube, Reddit, GitHub, Twitch, Telegram), EXIF metadata extraction, Google dorking, and more. Every module returns structured, easy-to-read output wrapped in a **24-bit true-color neon cyberpunk UI** with dynamic terminal-width support.
 
 **Important:** This tool is strictly intended for educational and authorized security research use only.
 
